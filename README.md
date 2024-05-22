@@ -59,7 +59,7 @@ All code has been done by Resident Sleepers (2024) based off own knowledge from 
 ## Credits  
 #### Resident Sleepers (2024)  
 - Christopher Van Houdt  
-- Kiwivi (Toby Tinker)  
+- Kiwivi (Tobias Tinker)  
 - ReubzNZ (Reuben Foord)  
 - Shikomisen (Ayoub Ahmad)  
 - Starmanwill (William Kuzmic)  
